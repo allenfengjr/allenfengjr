@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Hao FENG.
 - 👀 I’m interested in HPC and Computer Graphic.
-- 🏫 I'm now a PhD student in IU. 
+- 🏫 I'm now a first year PhD student in IU. 
 - 🌱 I’m currently working on Nothing. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me haofeng@mail.sdu.edu.cn
+- 📫 How to reach me $MY_NAME at iu dot com
 
 <!---
 allenfengjr/allenfengjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
