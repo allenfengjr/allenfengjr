@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hao FENG.
 - 👀 I’m interested in HPC and Computer Graphic.
-- 🏫 I'm now a first year PhD student in IU. 
+- 🏫 I'm now a second year PhD student in IU. 
 - 🌱 I’m currently working on Lossy Compression. 
 - 📫 How to reach me ${MY_FIRST_NAME+MY_LAST_NAME} at iu dot com
 
